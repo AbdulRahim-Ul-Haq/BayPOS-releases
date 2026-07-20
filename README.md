@@ -4,6 +4,8 @@
 
 **Point-of-sale for a single-lane supermarket — built for the UAE, works fully offline.**
 
+<img src="docs/baypos-demo.gif" alt="BayPOS — supermarket point-of-sale demo" width="840" />
+
 Fast barcode checkout · UAE 5% VAT · bilingual English/Arabic invoices · customer credit (khata) · inventory & purchasing · reports.
 
 ### [⬇️ Download the latest version](https://github.com/AbdulRahim-Ul-Haq/BayPOS-releases/releases/latest)
